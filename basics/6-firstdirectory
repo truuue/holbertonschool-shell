@@ -1,2 +1,2 @@
 #!/bin/bash
--l -l -n -a my_first_directory
+-ls -lna my_first_directory
