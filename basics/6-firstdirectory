@@ -1,2 +1,2 @@
 #!/bin/bash
--ls -lna my_first_directory
+-ls -lna
